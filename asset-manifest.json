@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unfirthman/jamming/static/css/main.51cebf72.css",
+    "main.js": "/unfirthman/jamming/static/js/main.76b18778.js",
+    "static/js/787.44b3b8b5.chunk.js": "/unfirthman/jamming/static/js/787.44b3b8b5.chunk.js",
+    "index.html": "/unfirthman/jamming/index.html",
+    "main.51cebf72.css.map": "/unfirthman/jamming/static/css/main.51cebf72.css.map",
+    "main.76b18778.js.map": "/unfirthman/jamming/static/js/main.76b18778.js.map",
+    "787.44b3b8b5.chunk.js.map": "/unfirthman/jamming/static/js/787.44b3b8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51cebf72.css",
+    "static/js/main.76b18778.js"
+  ]
+}
