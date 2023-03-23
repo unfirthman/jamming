@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/music-is-fun/static/css/main.51cebf72.css",
-    "main.js": "/music-is-fun/static/js/main.0a0b6e78.js",
-    "index.html": "/music-is-fun/index.html",
-    "main.51cebf72.css.map": "/music-is-fun/static/css/main.51cebf72.css.map",
-    "main.0a0b6e78.js.map": "/music-is-fun/static/js/main.0a0b6e78.js.map"
+    "main.css": "/jamming/static/css/main.51cebf72.css",
+    "main.js": "/jamming/static/js/main.72d915a3.js",
+    "index.html": "/jamming/index.html",
+    "main.51cebf72.css.map": "/jamming/static/css/main.51cebf72.css.map",
+    "main.72d915a3.js.map": "/jamming/static/js/main.72d915a3.js.map"
   },
   "entrypoints": [
     "static/css/main.51cebf72.css",
-    "static/js/main.0a0b6e78.js"
+    "static/js/main.72d915a3.js"
   ]
 }
